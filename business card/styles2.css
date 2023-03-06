@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+}
+.me{
+    width: 150px;
+    border-color: black;
+    border-width: 3px;
+}
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0, auto;
+    text-align: center;
+    font-style: #2b2839 ;
+    background-color: #ddebf8;
+    border-bottom: 6px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.itallic{
+    font-style: italic;
+}
